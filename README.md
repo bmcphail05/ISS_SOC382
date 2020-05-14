@@ -1,5 +1,5 @@
-# Sta 101 - S16
+# SOC382 - ISS
 
-Course materials for Sta 101 - Spring 2016 semester at Duke University.
+Course materials for SOC382 Introduction to Statistics for Sociology in Summer 2020 at Purdue University.
 
-Course website is at https://stat.duke.edu/courses/Spring16/sta101.001/.
+Adapted from https://github.com/mine-cetinkaya-rundel/sta101-s16
